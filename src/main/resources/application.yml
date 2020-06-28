@@ -1,0 +1,9 @@
+bot:
+  token: 
+  username: test-bot
+
+telegram:
+  proxy:
+    type: no_proxy
+    host: 127.0.0.1
+    port: 53662
